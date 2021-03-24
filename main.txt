@@ -1,7 +1,8 @@
-The Main & the Arithematic
+The Main & the Arithematic & Formulas
 
 THis is my first file on github.
 This is edited line
 This is the second time i am editing this file
 Addition
 Subtraction
+Formulas helps to solve problem quickly
